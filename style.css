@@ -1,0 +1,14 @@
+#portfolio {
+  max-width:1100px;
+  padding:100px o;
+  morgin:auto;
+}
+
+#portfolio.titulo-seccion{
+  text-align:center;
+  font-size:22px
+  text-transform:uppercose;
+  color:#111135;
+  text-decoretion:underline;
+  text-decoration-thickness:5px;
+}
